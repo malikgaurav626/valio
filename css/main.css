@@ -1527,7 +1527,6 @@ ol:not([class]) li ul {
 }
 .hero-video {
   position: relative;
-  filter: hue-rotate(-70deg);
 }
 .hero-video:after {
   content: "";
