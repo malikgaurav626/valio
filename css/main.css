@@ -610,7 +610,11 @@ ol:not([class]) li ul {
   -ms-flex-align: center;
   align-items: center;
   position: relative;
-  z-index: 3
+  z-index: 3;
+  gap: 10px;
+  font-family: "Stratos-Medium";
+  color: white;
+  font-size: 20px;
 }
 .header-drop {
   display: -webkit-flex;
